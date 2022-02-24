@@ -1,2 +1,2 @@
 My none empty readme
-my readme has been updated
+readme has been updated
